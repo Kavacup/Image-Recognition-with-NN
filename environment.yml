@@ -1,0 +1,16 @@
+name: ml_labs_2
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyterlab
+  - matplotlib
+  - seaborn
+  - plotly
+  - tensorflow
+  - tk
+  - Pillow
+  - pip
